@@ -60,7 +60,7 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 
 * **Internal Web App Audit (example)** — full web app assessment covering OWASP Top 10 issues, authenticated testing, and session management.
 * **Network Segmentation Review** — scanned and validated segmentation controls, identified firewall misconfigurations.
-* **CTF Write-ups** — several CTF challenges solved that demonstrate web and network exploitation skills.
+* **CTF Write-ups** — several CTF challenges solved that demonstrate web and network exploitation skills(tryhackme , hack the box ).
 
 > See the `projects/` folder for write-ups, PoCs and sanitized reports.
 
@@ -76,13 +76,6 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 
 ---
 
-## 📚 Certifications (optional)
-
-* Offensive Security Certified Professional (OSCP) — *if applicable, add date*
-* CompTIA Security+ — *if applicable, add date*
-* Any other certs — *add here*
-
----
 
 ## 📫 Contact & Connect
 
@@ -118,14 +111,4 @@ I follow responsible disclosure policies: all real-world testing is performed wi
 
 ---
 
-### Want it customized?
 
-If you want, I can:
-
-* Replace placeholder links and emails with your real handles.
-* Produce a clean `assets/` folder (banner & sanitized PoC images) ready to drop into the repo.
-* Convert this into a compact one-file `README.md` with inline images and icons.
-
----
-
-*Generated for a cybersecurity engineer with a focus on penetration testing.*
