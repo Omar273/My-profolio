@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-I'm **Omar Bacha**, a cybersecurity engineer specializing in penetration testing, web application security, and network defense. I enjoy finding creative, reliable ways to discover vulnerabilities and harden systems.
+I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration testing, web application security, and network defense. I enjoy finding creative, reliable ways to discover vulnerabilities and harden systems.
 
 * 🔧 Tools I use: **Burp Suite**, **Metasploit**, **Kali Linux**, **Nmap**, **Wireshark**, **John the Ripper**
 * 🎯 Focus areas: Web App Pentesting, Network Security, Exploit Validation, Secure Configurations
-* 📫 Contact: `omar.bacha@example.com` (replace with preferred contact)
+* 📫 Contact: `omarbacha222@gmail.com` (replace with preferred contact)
 
 ---
 
@@ -86,8 +86,8 @@ I'm **Omar Bacha**, a cybersecurity engineer specializing in penetration testing
 
 ## 📫 Contact & Connect
 
-* GitHub: [omar-bacha](https://github.com/omar-bacha) (replace with your handle)
-* LinkedIn: [Omar Bacha](https://www.linkedin.com/in/omar-bacha) (replace)
+* GitHub: [Omar273]((https://github.com/Omar273)) (replace with your handle)
+* LinkedIn: [Omar Bacha](https://www.linkedin.com/in/mohamed-omar-bacha-20b352204/)) (replace)
 * Email: `omar.bacha@example.com`
 
 ---
