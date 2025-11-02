@@ -85,26 +85,6 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 
 ---
 
-## ✨ Readme Styling & Images
-
-To make this README visually appealing, I recommend:
-
-* Use a profile banner at the top (e.g., `assets/banner.png`).
-* Add a `screenshots/` folder for sanitized PoC images (e.g., Burp request/response, proof images) and link them inline like:
-
-```md
-![PoC - command injection](./screenshots/poc-command-injection.png)
-```
-
-* Add GitHub stats and languages cards:
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-bacha&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=omar-bacha&show_icons=true)
-```
-
----
-
 ## ⚖️ Responsible Disclosure
 
 I follow responsible disclosure policies: all real-world testing is performed with explicit authorization, and sensitive details/traces are kept out of public repositories unless sanitized or permissioned.
