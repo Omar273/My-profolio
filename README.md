@@ -71,7 +71,9 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 
 Cisco certified Ethical Hacker 
 
-AWS certified cloud practioner 
+AWS certified cloud practioner  
+
+credly account : https://www.credly.com/users/mohamed-omar-bacha/badges#credly
 
 
 ---
