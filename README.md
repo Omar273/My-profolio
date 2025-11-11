@@ -64,6 +64,16 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 
 > See the `projects/` folder for write-ups, PoCs and sanitized reports.
 
+
+---
+
+## 📁 Certifications 
+
+Cisco certified Ethical Hacker 
+
+AWS certified cloud practioner 
+
+
 ---
 
 ## 🧰 Tools & Resources
