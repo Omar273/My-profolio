@@ -14,7 +14,7 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 
 * 🔧 Tools I use: **Burp Suite**, **Metasploit**, **Kali Linux**, **Nmap**, **Wireshark**, **John the Ripper**
 * 🎯 Focus areas: Web App Pentesting, Network Security, Exploit Validation, Secure Configurations
-* 📫 Contact: `omarbacha222@gmail.com` (replace with preferred contact)
+* 📫 Contact: omarbacha222@gmail.com
 
 ---
 
