@@ -90,7 +90,7 @@ AWS certified cloud practioner
 ## 📫 Contact & Connect
 
 * GitHub: [Omar273]((https://github.com/Omar273)) 
-* LinkedIn: [Omar Bacha](https://www.linkedin.com/in/mohamed-omar-bacha-20b352204/)) (replace)
+* LinkedIn: [Omar Bacha](https://www.linkedin.com/in/mohamed-omar-bacha-20b352204/)) 
 * Email: omarbacha222@gmail.com
 
 ---
