@@ -91,8 +91,8 @@ credly account : https://www.credly.com/users/mohamed-omar-bacha/badges#credly
 
 ## 📫 Contact & Connect
 
-* GitHub: github.com/Omar273 
-* LinkedIn: linkedin.com/in/mohamed-omar-bacha-20b352204
+* GitHub: https://github.com/Omar273 
+* LinkedIn: https://linkedin.com/in/mohamed-omar-bacha-20b352204
 * Email: omarbacha222@gmail.com
 
 ---
