@@ -23,7 +23,7 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 * **Offensive Security:** Penetration testing methodologies, vulnerability discovery, exploit verification
 * **Web Security:** OWASP Top 10, secure HTTP headers, authentication/authorization testing
 * **Network Security:** TCP/IP, firewall evasion techniques, service enumeration, lateral movement basics
-* ** SIEM ( WAZUH , SPLUNK ) SOAR ( SPLUNK)  : i have use them in a Hackathon
+* ** SIEM ( WAZUH , SPLUNK ) SOAR ( SPLUNK)  : i have used them in a Hackathon
 * **Tools & Platforms:** Burp Suite, Metasploit, Kali Linux, Nmap, Wireshark, Hashcat
 * **Languages:** Bash, Python (scripting for automation & PoCs), basic PHP/SQL knowledge for testing
 
