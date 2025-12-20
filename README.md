@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration testing, web application security, and network defense. I enjoy finding creative, reliable ways to discover vulnerabilities and harden systems.
+I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration testing, web application security, and network defense. I enjoy finding creative, reliable ways to discover vulnerabilities and harden systems. Also im AWS certified 
 
 * 🔧 Tools I use: **Burp Suite**, **Metasploit**, **Kali Linux**, **Nmap**, **Wireshark**, **John the Ripper**
 * 🎯 Focus areas: Web App Pentesting, Network Security, Exploit Validation, Secure Configurations
