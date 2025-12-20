@@ -62,6 +62,9 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 * **Internal Web App Audit (example)** — full web app assessment covering OWASP Top 10 issues, authenticated testing, and session management.
 * **Network Segmentation Review** — scanned and validated segmentation controls, identified firewall misconfigurations.
 * **CTF Write-ups** — several CTF challenges solved that demonstrate web and network exploitation skills(tryhackme , hack the box ).
+* aws-soltions-architect-project    https://github.com/Omar273/aws-soltions-architect-project
+* Fantasy Premier League Assistant  https://github.com/Omar273/Fantasy_MLOPS
+
 
 > See the `projects/` folder for write-ups, PoCs and sanitized reports.
 
