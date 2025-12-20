@@ -27,6 +27,26 @@ I'm **Mohamed Omar Bacha**, a cybersecurity engineer specializing in penetration
 * **Tools & Platforms:** Burp Suite, Metasploit, Kali Linux, Nmap, Wireshark, Hashcat
 * **Languages:** Bash, Python (scripting for automation & PoCs), basic PHP/SQL knowledge for testing
 
+--- 
+
+## 🛠️ Eperience 
+
+Cybersecurity audit  Engineer intern , company : BONTAZ
+Field: SEcurity (Windows, Active directory, Networking, Firewall)
+Configured advanced firewall rules, reducing unauthorized access attempts by 30%. Implemented multi-factor authentication and network access control for 50+ users. Enabled security best practices across critical infrastructure, improving compliance with ISO 27001 standards
+
+
+
+Devops engineer intern  , company : ADS LTD
+Field:Cloud , security , operations (Github Actions,  Linux, EC2, Aws  Cloud watch)
+025 Deployed Infrastructure-as-Code (IaC) with Terraform, reducing provisioning time by 40%. Built automated CI/CD pipelines using GitHub Actions and Docker, enabling daily deployments with zero downtime. Integrated monitoring and security services to ensure 99.9% uptime. Designing scalable web architecture on AWS, optimizing cost by 20%.
+
+
+Network engineer intern   , company : LEONI
+Field: Networking  (Vlans, Firewall, OS, Data center)
+ Configured VLANs and routers, ensuring secure network segmentation. Installed enterprise software across 200+ devices. Supervised and maintained server infrastructure, reducing downtime incidents by 25% 
+
+
 ---
 
 ## 🔍 Penetration Testing Highlights
