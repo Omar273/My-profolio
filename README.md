@@ -1,4 +1,4 @@
-# Mohamed Omar Bacha — Cybersecurity & cloud engineering student
+# Mohamed Omar Bacha — Cybersecurity & Cloud engineering student
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity%20Engineer-blue?style=flat-square" alt="role" />
